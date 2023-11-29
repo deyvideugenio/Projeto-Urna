@@ -1,0 +1,125 @@
+Pedro de Assis, MG17845369, 015443020272, Formiga, MG
+Carla Machado, SP156987456, 848242120221, Osasco, SP
+Félix Nascimento, MG18123654, 670351800264, Pains, MG
+Luís Silva, RS16457956, 732787030230, Santa Maria, RS
+Maria Oliveira, RJ12345678, 987654321012, Rio de Janeiro, RJ
+João Alves, MG17890765, 023451200987, Belo Horizonte, MG
+Ana Pereira, SP15987654, 564738291012, São Paulo, SP
+Rafael Santos, RS16543210, 012345678900, Porto Alegre, RS
+Carolina Costa, RJ18374625, 567890123456, Niterói, RJ
+Gustavo Oliveira, MG18765432, 543210987654, Contagem, MG
+Maria Fernandes, MG18906543, 765432109876, Uberlândia, MG
+João Pereira, SP15789012, 109876543210, Campinas, SP
+Luana Silva, RS16654321, 210987654321, Caxias do Sul, RS
+Paulo Oliveira, RJ18432109, 321098765432, Petrópolis, RJ
+Renata Costa, MG18765432, 432109876543, Sete Lagoas, MG
+André Santos, SP15908765, 543210987654, Santos, SP
+Mariana Almeida, RS16543210, 765432109876, Novo Hamburgo, RS
+Felipe Nascimento, RJ18321456, 098765432109, Nova Iguaçu, RJ
+Ana Oliveira, MG17865432, 321098765432, Juiz de Fora, MG
+Thiago Silva, SP15780987, 654321098765, Guarulhos, SP
+Beatriz Costa, RS16654321, 109876543210, Pelotas, RS
+Lucas Santos, RJ18432109, 543210987654, Volta Redonda, RJ
+Camila Pereira, MG18907654, 876543210987, Contagem, MG
+Bruno Oliveira, SP15901234, 210987654321, São Bernardo do Campo, SP
+Juliana Almeida, RS16543210, 321098765432, Santa Cruz do Sul, RS
+Gustavo Nascimento, RJ18345678, 543210987654, Duque de Caxias, RJ
+Carla Costa, MG18765432, 987654321012, Uberaba, MG
+Pedro Santos, SP15789012, 654321098765, Ribeirão Preto, SP
+Fernanda Alves, RS16654321, 098765432109, Canoas, RS
+Eduardo Oliveira, RJ18432109, 210987654321, Niterói, RJ
+Mariana Silva, MG18907654, 321098765432, Sete Lagoas, MG
+Lucas Costa, SP15901234, 543210987654, Campinas, SP
+Ana Santos, RS16543210, 876543210987, Caxias do Sul, RS
+João Oliveira, RJ18345678, 109876543210, Volta Redonda, RJ
+Luiza Nascimento, MG18765432, 321098765432, Belo Horizonte, MG
+Rafael Almeida, SP15789012, 654321098765, Guarulhos, SP
+Beatriz Almeida, RS16543210, 321098765432, Pelotas, RS
+Lucas Almeida, RJ18345678, 654321098765, Petrópolis, RJ
+Camila Nascimento, MG18765432, 321098765432, Contagem, MG
+Bruno Oliveira, SP15789012, 210987654321, São Bernardo do Campo, SP
+Juliana Almeida, RS16654321, 321098765432, Santa Cruz do Sul, RS
+Gustavo Oliveira, RJ18432109, 654321098765, Duque de Caxias, RJ
+Carla Costa, MG18907654, 098765432109, Uberaba, MG
+Pedro Alves, SP15901234, 210987654321, Ribeirão Preto, SP
+Mariana Oliveira, RS16543210, 321098765432, Canoas, RS
+Thiago Costa, RJ18345678, 654321098765, Niterói, RJ
+Renata Almeida, MG18765432, 098765432109, Sete Lagoas, MG
+André Nascimento, SP15789012, 210987654321, Campinas, SP
+Luana Costa, RS16654321, 321098765432, Caxias do Sul, RS
+Rafael Santos, RJ18432109, 654321098765, Volta Redonda, RJ
+Carolina Oliveira, MG18907654, 098765432109, Contagem, MG
+Felipe Almeida, SP15901234, 210987654321, São Paulo, SP
+Juliana Santos, RS16543210, 321098765432, Novo Hamburgo, RS
+Thiago Oliveira, RJ18345678, 654321098765, Nova Iguaçu, RJ
+Amanda Costa, MG18765432, 098765432109, Juiz de Fora, MG
+André Almeida, SP15789012, 210987654321, Santos, SP
+Mariana Nascimento, RS16654321, 321098765432, Caxias do Sul, RS
+Gustavo Santos, RJ18432109, 654321098765, Volta Redonda, RJ
+Luana Alves, MG18907654, 098765432109, Contagem, MG
+Pedro Oliveira, SP15901234, 210987654321, Ribeirão Preto, SP
+Beatriz Almeida, RS16543210, 321098765432, Santa Cruz do Sul, RS
+Lucas Nascimento, RJ18345678, 654321098765, Duque de Caxias, RJ
+Camila Costa, MG18765432, 098765432109, Uberaba, MG
+Bruno Santos, SP15789012, 210987654321, Ribeirão Preto, SP
+Juliana Oliveira, RS16654321, 321098765432, Canoas, RS
+Gustavo Silva, RJ18432109, 543210987654, Niterói, RJ
+Carolina Alves, MG18907654, 876543210987, Sete Lagoas, MG
+Rafael Oliveira, SP15901234, 109876543210, Campinas, SP
+Mariana Costa, RS16543210, 321098765432, Caxias do Sul, RS
+Thiago Almeida, RJ18345678, 654321098765, Volta Redonda, RJ
+Ana Nascimento, MG18765432, 098765432109, Belo Horizonte, MG
+João Costa, SP15789012, 210987654321, Guarulhos, SP
+Luiza Almeida, RS16654321, 321098765432, Pelotas, RS
+Rafael Nascimento, RJ18432109, 654321098765, Petrópolis, RJ
+Renata Santos, MG18907654, 098765432109, Contagem, MG
+Felipe Oliveira, SP15901234, 210987654321, São Paulo, SP
+Juliana Alves, RS16543210, 321098765432, Novo Hamburgo, RS
+Thiago Santos, RJ18345678, 654321098765, Nova Iguaçu, RJ
+Amanda Costa, MG18765432, 098765432109, Juiz de Fora, MG
+André Almeida, SP15789012, 210987654321, Santos, SP
+Mariana Nascimento, RS16654321, 321098765432, Caxias do Sul, RS
+Gustavo Nascimento, RJ18432109, 654321098765, Volta Redonda, RJ
+Carla Alves, MG18907654, 098765432109, Uberaba, MG
+Pedro Santos, SP15901234, 210987654321, Ribeirão Preto, SP
+Fernanda Oliveira, RS16543210, 321098765432, Canoas, RS
+Eduardo Costa, RJ18345678, 654321098765, Niterói, RJ
+Mariana Silva, MG18765432, 098765432109, Sete Lagoas, MG
+Lucas Costa, SP15789012, 210987654321, Campinas, SP
+Ana Santos, RS16654321, 321098765432, Caxias do Sul, RS
+João Oliveira, RJ18432109, 654321098765, Volta Redonda, RJ
+Luiza Nascimento, MG18907654, 098765432109, Belo Horizonte, MG
+Rafael Almeida, SP15789012, 210987654321, Guarulhos, SP
+Beatriz Santos, RS16543210, 321098765432, Pelotas, RS
+Lucas Almeida, RJ18345678, 654321098765, Petrópolis, RJ
+Camila Nascimento, MG18765432, 098765432109, Contagem, MG
+Bruno Oliveira, SP15789012, 210987654321, São Bernardo do Campo, SP
+Juliana Almeida, RS16654321, 321098765432, Santa Cruz do Sul, RS
+Gustavo Oliveira, RJ18432109, 654321098765, Duque de Caxias, RJ
+Carla Costa, MG18907654, 098765432109, Uberaba, MG
+Pedro Alves, SP15901234, 210987654321, Ribeirão Preto, SP
+Mariana Oliveira, RS16543210, 321098765432, Canoas, RS
+Thiago Costa, RJ18345678, 654321098765, Niterói, RJ
+Renata Almeida, MG18765432, 098765432109, Sete Lagoas, MG
+André Nascimento, SP15789012, 210987654321, Campinas, SP
+Luana Costa, RS16654321, 321098765432, Caxias do Sul, RS
+Rafael Santos, RJ18432109, 654321098765, Volta Redonda, RJ
+Carolina Oliveira, MG18907654, 098765432109, Contagem, MG
+Felipe Almeida, SP15901234, 210987654321, São Paulo, SP
+Juliana Santos, RS16543210, 321098765432, Novo Hamburgo, RS
+Thiago Oliveira, RJ18345678, 654321098765, Nova Iguaçu, RJ
+Amanda Costa, MG18765432, 098765432109, Juiz de Fora, MG
+André Almeida, SP15789012, 210987654321, Santos, SP
+Mariana Nascimento, RS16654321, 321098765432, Caxias do Sul, RS
+Gustavo Santos, RJ18432109, 654321098765, Volta Redonda, RJ
+Luana Alves, MG18907654, 098765432109, Contagem, MG
+Pedro Oliveira, SP15901234, 210987654321, Ribeirão Preto, SP
+Beatriz Almeida, RS16543210, 321098765432, Santa Cruz do Sul, RS
+Lucas Nascimento, RJ18345678, 654321098765, Duque de Caxias, RJ
+Camila Costa, MG18765432, 098765432109, Uberaba, MG
+Bruno Santos, SP15789012, 210987654321, Ribeirão Preto, SP
+Juliana Oliveira, RS16654321, 321098765432, Canoas, RS
+Gustavo Silva, RJ18432109, 543210987654, Niterói, RJ
+Raphael Soares, MG13320046, 543210988888, Lavras, MG
+Raphael Soares, 1, 543210988888, Lavras, MG
+Raphael Soares, MG13320046, 123456, Lavras, MG

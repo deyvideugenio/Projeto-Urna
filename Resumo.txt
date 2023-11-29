@@ -1,0 +1,49 @@
+Comentários 
+
+Funções:
+
+Definição: Funções em Python são blocos de código reutilizáveis que realizam tarefas específicas. Elas são definidas usando a palavra-chave def, seguida pelo nome da função e parâmetros entre parênteses. O corpo da função é indentado.
+Detalhes: def ler_candidatos(): define uma função chamada ler_candidatos que encapsula a lógica para processar dados de candidatos.
+
+Manipulação de Arquivos:
+
+Definição: Manipulação de arquivos envolve a leitura ou escrita de dados em arquivos no sistema de arquivos do computador. A função open é usada para abrir um arquivo, e with é utilizado para garantir que o arquivo seja fechado corretamente após o uso.
+Detalhes: with open(nome_arquivo, 'r', encoding='utf-8') as arquivo: abre o arquivo 'candidatos.txt' em modo leitura e especifica a codificação como UTF-8.
+`open(): Função para abrir o arquivo. O segundo argumento ('r') indica que o arquivo está sendo aberto para leitura.
+`readlines(): Método para ler todas as linhas do arquivo e armazená-las em uma lista.
+
+Estruturas de Dados:
+
+Definição: Estruturas de dados organizam e armazenam dados. Listas em Python são coleções mutáveis que podem conter elementos de diferentes tipos.
+Detalhes: candidatos = [] inicializa uma lista para armazenar os dados dos candidatos lidos do arquivo.
+
+Iteração:
+
+Definição: Iteração permite percorrer itens em uma sequência. O loop for em Python é usado para iterar sobre elementos de uma sequência, e enumerate fornece tanto o índice quanto o valor durante a iteração.
+Detalhes: for linha_numero, linha in enumerate(linhas, start=1): itera sobre as linhas do arquivo, mantendo o número da linha.
+
+Tratamento de Exceções:
+
+Definição: Tratamento de exceções gerencia erros durante a execução do programa. try...except permite capturar exceções e fornecer ações apropriadas em caso de erro.
+Detalhes: try...except é usado para capturar exceções, como um formato inválido de linha no arquivo, e imprimir mensagens de erro.
+
+Strings e Métodos de String:
+
+Definição: Strings representam texto. Métodos de string, como strip e split, permitem manipulação e formatação de strings.
+Detalhes: linha.strip().split(',') remove espaços em branco e divide a linha nos elementos usando ',' como separador.
+
+Dicionários:
+
+Definição: Dicionários são coleções de pares chave-valor em Python. Cada chave é única e associada a um valor.
+Detalhes: Um dicionário é usado para representar dados de candidatos, onde as chaves são atributos do candidato.
+
+Enumerate:
+
+Definição: enumerate adiciona um contador a uma sequência. Especificar start=1 faz com que o contador comece do número 1.
+Detalhes: enumerate(linhas, start=1) gera pares índice-valor durante a iteração sobre as linhas do arquivo.
+
+Controle de Fluxo:
+
+Definição: Controle de fluxo regula a ordem de execução do código. Condicionais (if, else) permitem executar diferentes blocos de código com base em condições. Loops (for, while) permitem repetir a execução de um bloco.
+Detalhes: Condicionais (if len(dados) != 5:) validam o formato das linhas, permitindo o processamento ou tratamento de erros. Loops (for, while) são fundamentais para a iteração sobre sequências ou até que uma condição seja atendida.
+
